@@ -37,7 +37,7 @@
     "tailwindcss": "^4.3.3",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.3.3",
-    "typewriter-effect": "^2.21.0"
+    "typewriter-effect": "^3.3.0"
   },
   "devDependencies": {
     "@iconify-json/maki": "^1.1.23",
