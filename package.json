@@ -40,8 +40,8 @@
     "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
-    "@iconify-json/maki": "^1.1.23",
+    "@iconify-json/maki": "^1.2.6",
     "@iconify-json/mdi": "^1.1.64",
-    "sass": "^1.70.0"
+    "sass": "^1.107.1"
   }
 }
